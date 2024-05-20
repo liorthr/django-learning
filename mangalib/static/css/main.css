@@ -1,0 +1,16 @@
+body{
+    background-color: rgba(0, 0, 255, 0.135);
+    margin: 50px;
+}
+
+.photo{
+    display: flex;
+    flex-direction: column;
+}
+.carre{
+    border: 1px solid white;
+    border-radius: 21px;
+    width: 300px;
+    height: 300px;
+}
+  
